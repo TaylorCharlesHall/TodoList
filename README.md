@@ -1,3 +1,5 @@
+<img src="todo.jpg" width="100" />
+
 # TodoList
 Allows user to add and remove items from list.
 ### Details
